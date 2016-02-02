@@ -1,0 +1,6 @@
+framework module HYBLib {
+  umbrella header "HYBLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
